@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppCatalog</string>
+    <string name="app_title">Catálogo</string>
+    <string name="exit_app_msg">¿Desea salir de la Aplicación?</string>
+    <string name="string_url" type="string">https://itunes.apple.com/</string>
+    <string name="yes_option">Si</string>
+    <string name="no_option">No</string>
+    <string name="act_settings">Configuración</string>
+    <string name="action_close">Cerrar</string>
+    <string name="ok">Acceso exitoso</string>
+    <string name="fail">No es posible ingresar a la aplicación</string>
+    <string name="imageSize">100</string>
+    <string name="offline">Conexión Offline</string>
+    <string name="app_detail">App detalle</string>
+    <string name="cantidad_service">20</string>
+    <integer name="time_toast">200</integer>
+    <integer name="splash_time">5000</integer>
+</resources>
